@@ -1,4 +1,3 @@
-```markdown
 # Product Listing App
 
 A simple e-commerce product listing application built using Next.js. This app fetches product data from an API and displays it in a responsive grid layout with interactive features like image display, product description, and navigation to individual product details.
@@ -24,7 +23,6 @@ To run the app locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/rajat-valecha200/demo-store.git
-   ```
 
 2. **Install dependencies**:
    Navigate to the project directory and run:
